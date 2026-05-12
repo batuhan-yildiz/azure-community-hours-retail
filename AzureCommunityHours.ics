@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft//Outlook Web//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00807EA0602146861A87AE1DC01000000000000000
+ 01000000086AE0102A7E9DB48BC43DD85EA988276
+DTSTAMP:20260511T211936Z
+DTSTART:20260602T180000Z
+DTEND:20260602T190000Z
+RECURRENCE-ID:20260602T180000Z
+SUMMARY:Azure Community Hours - Modernize\, Build\, and Innovate on Azure
+DESCRIPTION:Hello\n\n\n\n\nJoin&nbsp\;us for a focused Azure Community Hour
+ s&nbsp\;series\, designed to help you accelerate your journey to modern\, 
+ secure\, and scalable cloud solutions.\n\n\n\n\nEach session will focus on
+  a different topic across Microsoft cloud technologies\, including:\n\n\n\
+ n\n\nApplication and database modernization on Azure\n\nInfrastructure mig
+ ration and hybrid cloud transformation\n\nSecurity\, governance\, and resi
+ lience across cloud environments\n\nAI-powered applications and intelligen
+ t agent scenarios\n\nModern data platform with Microsoft Fabric for analyt
+ ics and data integration\n\nBusiness intelligence and data visualization w
+ ith Power BI\n\n\n\n\n\nSessions include real-world guidance\, recommended
+  architectures\, live demonstrations\, and practical insights from Microso
+ ft experts.\n\n\n\n\nRegistration: Click here to complete the \nregistrati
+ on\n\n\n\n\nWe look forward to having you join us!\n\n\n\n\n\n\nRegards\,\
+ n\nRetail Azure Hours Event Team
+X-ALT-DESC;FMTTYPE=text/html:<div class="cal_cfde">\n<div>\n<div style="fon
+ t-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helvetic
+ a\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\nHello</div>\n<div s
+ tyle="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\
+ ,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n<br>\n</di
+ v>\n<div style="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService
+ \,Calibri\,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n
+ <b>Join</b>&nbsp\;us for a focused <b>Azure Community Hours</b>&nbsp\;seri
+ es\, designed to help you accelerate your journey to modern\, secure\, and
+  scalable cloud solutions.</div>\n<div class="x_elementToProof" style="fon
+ t-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helvetic
+ a\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n<br>\n</div>\n<div 
+ class="x_elementToProof" style="font-family:Aptos\,Aptos_EmbeddedFont\,Apt
+ os_MSFontService\,Calibri\,Helvetica\,sans-serif\; font-size:12pt\; color:
+ rgb(0\,0\,0)">\nEach session will focus on a different topic across Micros
+ oft cloud technologies\, including:</div>\n<div class="x_elementToProof" s
+ tyle="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\
+ ,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n<br>\n</di
+ v>\n<ul data-editing-info="{&quot\;applyListStyleFromLevel&quot\;:true}" s
+ tyle="margin-top:0px\; margin-bottom:0px\; list-style-type:disc">\n<li sty
+ le="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,H
+ elvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)\; margin-top:0p
+ x\; margin-bottom:0px">\n<div class="x_elementToProof" role="presentation"
+ >Application and database modernization on Azure</div>\n</li><li style="fo
+ nt-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helveti
+ ca\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)\; margin-top:0px\; ma
+ rgin-bottom:0px">\n<div class="x_elementToProof" role="presentation">Infra
+ structure migration and hybrid cloud transformation</div>\n</li><li style=
+ "font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helv
+ etica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)\; margin-top:0px\;
+  margin-bottom:0px">\n<div class="x_elementToProof" role="presentation">Se
+ curity\, governance\, and resilience across cloud environments</div>\n</li
+ ><li style="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Ca
+ libri\,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)\; margi
+ n-top:0px\; margin-bottom:0px">\n<div class="x_elementToProof" role="prese
+ ntation">AI-powered applications and intelligent agent scenarios</div>\n</
+ li><li style="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,
+ Calibri\,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)\; mar
+ gin-top:0px\; margin-bottom:0px">\n<div class="x_elementToProof" role="pre
+ sentation">Modern data platform with Microsoft Fabric for analytics and da
+ ta integration</div>\n</li><li style="font-family:Aptos\,Aptos_EmbeddedFon
+ t\,Aptos_MSFontService\,Calibri\,Helvetica\,sans-serif\; font-size:12pt\; 
+ color:rgb(0\,0\,0)\; margin-top:0px\; margin-bottom:0px">\n<div class="x_e
+ lementToProof" role="presentation">Business intelligence and data visualiz
+ ation with Power BI</div>\n</li></ul>\n<div class="x_elementToProof" style
+ ="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Hel
+ vetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n<br>\n</div>\n
+ <div class="x_elementToProof" style="font-family:Aptos\,Aptos_EmbeddedFont
+ \,Aptos_MSFontService\,Calibri\,Helvetica\,sans-serif\; font-size:12pt\; c
+ olor:rgb(0\,0\,0)">\nSessions include real-world guidance\, recommended ar
+ chitectures\, live demonstrations\, and practical insights from Microsoft 
+ experts.</div>\n<div class="x_elementToProof" style="font-family:Aptos\,Ap
+ tos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helvetica\,sans-serif\; fo
+ nt-size:12pt\; color:rgb(0\,0\,0)">\n<br>\n</div>\n<div class="x_elementTo
+ Proof" style="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,
+ Calibri\,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n<b
+ >Registration</b>: Click here to complete the <a href="https://aka.ms/Azur
+ eCommunityRetail" target="_blank" rel="noopener noreferrer" data-auth="Not
+ Applicable" id="OWAf5b7b72f-8415-3e4a-2c07-b20a0d4a7ea8" class="x_x_x_OWAA
+ utoLink" title="https://aka.ms/AzureCommunityRetail">\n<b>registration</b>
+ </a></div>\n<div class="x_elementToProof" style="font-family:Aptos\,Aptos_
+ EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helvetica\,sans-serif\; font-s
+ ize:12pt\; color:rgb(0\,0\,0)">\n<br>\n</div>\n<div class="x_elementToProo
+ f" style="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Cali
+ bri\,Helvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\nWe loo
+ k forward to having you join us!</div>\n<div class="x_elementToProof" styl
+ e="font-family:Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,He
+ lvetica\,sans-serif\; font-size:12pt\; color:rgb(0\,0\,0)">\n<br>\n</div>\
+ n<div class="x_elementToProof" style="font-family:Aptos\,Aptos_EmbeddedFon
+ t\,Aptos_MSFontService\,Calibri\,Helvetica\,sans-serif\; font-size:12pt\; 
+ color:rgb(0\,0\,0)">\n<b></b></div>\n<div style="font-family:Aptos\,Aptos_
+ EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helvetica\,sans-serif\; font-s
+ ize:12pt\; color:rgb(0\,0\,0)">\nRegards\,</div>\n<div style="font-family:
+ Aptos\,Aptos_EmbeddedFont\,Aptos_MSFontService\,Calibri\,Helvetica\,sans-s
+ erif\; font-size:12pt\; color:rgb(0\,0\,0)">\nRetail Azure Hours Event Tea
+ m</div>\n</div>\n</div>\n
+ORGANIZER;CN=Batuhan Yildiz:mailto:Batuhan.Yildiz@microsoft.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
