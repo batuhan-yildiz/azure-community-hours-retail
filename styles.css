@@ -53,6 +53,53 @@ header {
   text-align: center;
 }
 
+/* Hero header (for homepage only) */
+.hero-header {
+  background: url('https://images.unsplash.com/photo-1519389950473-47ba0277781c') center/cover no-repeat;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+  position: relative;
+}
+
+.hero-header::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+}
+
+.hero-header .content {
+  position: relative;
+  z-index: 1;
+}
+
+/* 2 equal columns */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 25px;
+}
+
+/* Make full-width tile */
+.full-width {
+  grid-column: span 2;
+}
+
+/* Responsive (mobile) */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .full-width {
+    grid-column: span 1;
+  }
+}
+
 /* Layout */
 main {
   max-width: 1100px;
