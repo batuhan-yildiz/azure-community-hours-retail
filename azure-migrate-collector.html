@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Azure Migrate Collector</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: #f4f6f8;
+      color: #1b1b1b;
+    }
+
+    nav {
+      background: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 30px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+
+    nav h2 {
+      margin: 0;
+      color: #0078d4;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #0078d4;
+      font-weight: 500;
+    }
+
+    header {
+      background: linear-gradient(135deg, #0078d4, #005a9e);
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .section {
+      background: white;
+      padding: 24px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+    }
+
+    h2 {
+      color: #0078d4;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      margin-top: 10px;
+    }
+
+    .info-box {
+      background: #f0f8ff;
+      padding: 12px;
+      border-left: 4px solid #0078d4;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #777;
+    }
+
+    @media (max-width: 768px) {
+      .info-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <h2>Retail Azure</h2>
+    <a href="index.html">← Back to Home</a>
+  </nav>
+
+  <!-- Header -->
+  <header>
+    <h1>Discover Servers and Workloads Using Azure Migrate Collector</h1>
+    <p>A fast and secure approach to discovering your IT estate without requiring direct Azure connectivity.</p>
+  </header>
+
+  <main>
+
+    <div class="section">
+      <p>
+        The Azure Migrate Collector is a discovery tool used to quickly identify servers and workloads across your IT estate 
+        without requiring direct Azure connectivity.
+      </p>
+
+      <p>
+        You deploy the collector on a Windows Server to scan VMware environments, as well as physical or virtual servers 
+        running on any hypervisor or public cloud.
+      </p>
+
+      <p>
+        The collector captures server configurations, performance data, installed software, SQL Server and PostgreSQL instances, 
+        and web applications such as .NET on IIS and Java on Tomcat.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Key Capabilities</h2>
+
+      <div class="info-grid">
+        <div class="info-box"><strong>Connectivity:</strong> Offline discovery</div>
+        <div class="info-box"><strong>Time to discovery:</strong> Quick setup</div>
+        <div class="info-box"><strong>Assessment types:</strong> Lift and shift, modernization</div>
+        <div class="info-box"><strong>Performance-based sizing:</strong> Yes</div>
+        <div class="info-box"><strong>Guest & workload discovery:</strong> Yes</div>
+        <div class="info-box"><strong>Dependency mapping:</strong> No</div>
+        <div class="info-box"><strong>Execute migrations:</strong> No</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Azure Migrate Collector Deployment Overview</h2>
+      <ul>
+        <li>Create a new Azure Migrate project</li>
+        <li>Download the Azure Migrate Collector</li>
+        <li>Run the installer and configure the collector</li>
+        <li>Provide vCenter credentials</li>
+        <li>Provide guest and database credentials</li>
+        <li>Validate credentials</li>
+        <li>Start data collection</li>
+        <li>Review collected data and resolve any issues</li>
+        <li>Enable incremental data collection to retry failed workloads</li>
+        <li>Export collected data</li>
+        <li>Upload data to Azure Migrate</li>
+        <li>Enrich inventory with custom and reserved tags</li>
+        <li>Create reports, business cases, and assessments</li>
+        <li>Import additional inventory if required</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Detailed Guidance</h2>
+      <p>
+        Follow the full step-by-step guidance here:
+      </p>
+
+      <p>
+        <a href="https://github.com/batuhan-yildiz/azure-databases/blob/main/assessment/azure-migrate-collector.md" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="color:#0078d4; font-weight:600;">
+           View Azure Migrate Collector Documentation
+        </a>
+      </p>
+    </div>
+
+  </main>
+
+  <footer>
+    Retail Azure Community — Powered by Microsoft Azure
+  </footer>
+
+</body>
+</html>
